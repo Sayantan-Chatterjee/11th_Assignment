@@ -1,0 +1,6 @@
+F:\FrameWork\11_th_Aug_assignment\MyCalculator\MyCalculator\bin\Debug\MyCalculator.dll
+F:\FrameWork\11_th_Aug_assignment\MyCalculator\MyCalculator\bin\Debug\MyCalculator.pdb
+F:\FrameWork\11_th_Aug_assignment\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csprojAssemblyReference.cache
+F:\FrameWork\11_th_Aug_assignment\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.CoreCompileInputs.cache
+F:\FrameWork\11_th_Aug_assignment\MyCalculator\MyCalculator\obj\Debug\MyCalculator.dll
+F:\FrameWork\11_th_Aug_assignment\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb
